@@ -7,7 +7,7 @@
 • Segment customers with the RFM method.
 ## ● Dataset Story <br/>
 • The dataset named Online Retail II includes the sales of an UK-based online store between 01/12/2009 - 09/12/2011.<br/><br/>
-• Souvenirs in the house of this company are located.The vast majority of the company's customers are corporate customers.<br/><br/>
+• This company houses souvenirs.The vast majority of the company's customers are corporate customers.<br/><br/>
 ## ● Variables <br/>
 ▶InvoiceNo: Invoice Number <br/>
  -If this code starts with C, it means that the operation has been cancelled.<br/><br/>
