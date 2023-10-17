@@ -1,6 +1,5 @@
 # RFM Customer Segmentation 
 ## ● Business Problem<br/>
-![This is an image](https://www.wigzo.com/blog/wp-content/uploads/2021/06/RFM-Analysis.jpg)<br/><br/>
 • An e-commerce company segments its customers and wants to determine marketing strategies according to segments.<br/><br/>
 • Customer segments with common behaviors income increase of doing marketing studies in particular thinks it will.<br/><br/>
 • E.g: Retaining customers that are very lucrative for the company different campaigns for new customers. campaigns are requested.<br/><br/>
